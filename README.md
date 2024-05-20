@@ -24,7 +24,7 @@ The final model was deployed using Streamlit in two different modes:
 
 ## Public URL
 The model is deployed and publicly accessible at the following Streamlit Server URL: <br>
-https://appointmentpredictiontool.streamlit.app/
+https://chla-deployment.streamlit.app/
 
 ## Repository Contents
 - app.py - contains the code for the Streamlit deployed app.
