@@ -36,7 +36,7 @@ https://appointmentpredictiontool.streamlit.app/
 ## Getting Started
 To run the Streamlit app locally, clone the repository, install the dependencies, and execute the Streamlit run command:
 ```sh
-git clone https://github.com/xvmarquez/AppointmentPredictionTool.git
-cd AppointmentPredictionTool
+git clone https://github.com/VISH831/CHLA-Streamlit.git
+cd CHLA-Streamlit
 pip install -r requirements.txt
 streamlit run app.py
